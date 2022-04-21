@@ -1,1 +1,1 @@
-from . import password_check, password_generator
+from . import password_checker, password_generator
