@@ -22,7 +22,7 @@ Application will perform validation based on the following constraints:
 
 1. Clone the repo
 
-> https://github.com/stefanyuk/password_check_gen.git
+> git clone https://github.com/stefanyuk/password_check_gen.git
 
 2. Create virtual environment in project
 > cd password_check_gen
