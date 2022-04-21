@@ -16,6 +16,7 @@ Application will perform validation based on the following constraints:
 ## Modules that are used
 - argparse
 - colorama
+- pytest
 
 ***
 ## Setup on Linux
