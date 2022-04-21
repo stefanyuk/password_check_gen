@@ -18,16 +18,16 @@ Application will perform validation based on the following constraints:
 - colorama
 
 ***
-## Setup
+## Setup on Linux
 
 1. Clone the repo
 
 > git clone https://github.com/stefanyuk/password_check_gen.git
 
 2. Create virtual environment in project
-> cd password_check_gen
+> cd password_check_gen/
 
-> python-m venv venv
+> python3 -m venv venv
 
 > source venv/bin/activate
 
@@ -40,8 +40,8 @@ Application will perform validation based on the following constraints:
 
 If you want to validate a password type the following command
 
-> python3 "<path_to_the_file_password_checker.py>" your_password
+> python3 <path_to_the_file_password_checker.py> your_password
 
 If you want to create a new password type the following command
 
-> python3 "<path_to_the_file_password_generator.py>"
+> python3 <path_to_the_file_password_generator.py>
